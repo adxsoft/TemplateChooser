@@ -13,6 +13,9 @@ v1.5.18
 3. Copy the script "createnodefromtemplate.groovy" to the scripts folder in User Directory
 4. Restart Freeplane
 
+## Demonstration
+A Freeplane map 'Template Chooser Demo v0.1.mm' demonstrates templates and creating nodes from templates
+
 ## Usage
 Any node can be a 'Template' node
   Must have node text starting with "Template:"
@@ -36,4 +39,9 @@ All elements of the template node are created in the new node including
 - sub nodes
 - scripts in template node or children
 - attributes (+ 'type' and 'created' attributes mention above
+
+## Tip
+Use Tools/Assign Hot Key to attach a shortcut key to the script 'createnodefromtemplate' script
+I use Command Shift N on my Mac
+Now when I want to add a node I use that shortcut key
     
